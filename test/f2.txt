@@ -1,0 +1,67 @@
+swagger: '2.0'
+info: {title: lexoffice API, description: 'lexoffice API https://developers.lexoffice.io/',
+  version: '1.0'}
+host: api.lexoffice.io
+basePath: /v1/
+schemes: [https]
+consumes: []
+produces: []
+paths:
+  /files:
+    post:
+      responses:
+        default: {description: default}
+      summary: Upload a file
+      operationId: FileUpload
+      description: https://developers.lexoffice.io/docs/#files-endpoint-upload-a-file
+      consumes: [multipart/form-data]
+      produces: [application/json]
+      parameters:
+      - {name: type, type: string, default: voucher, description: document type, required: true,
+        in: formData}
+      - {name: file, in: formData, required: true, type: file, x-ms-summary: File
+          Content}
+definitions: {}
+parameters: {}
+responses: {}
+securityDefinitions:
+  API-Schlüssel: {type: apiKey, in: header, name: Authorization}
+tags: []
+security:
+- API-Schlüssel: []
+
+
+=====
+
+{
+  "$content-type": "multipart/form-data",
+  "$multipart": [
+    {
+      "body": "18",
+      "headers": {
+        "Content-Disposition": "form-data; name=\"category\""
+      }
+    },
+    {
+      "body": "@{outputs('Convert_file')['headers']['x-ms-file-name']}",
+      "headers": {
+        "Content-Disposition": "form-data; name=\"fileName\""
+      }
+    },
+    {
+      "body": "yes",
+      "headers": {
+        "Content-Disposition": "form-data; name=\"share\""
+      }
+    },
+    {
+      "body": {
+        "$content": "@{body('Convert_file')}",
+        "$content-type": "application/pdf"
+      },
+      "headers": {
+        "Content-Disposition": "form-data; name=\"file\"; filename=\"@{outputs('Convert_file')['headers']['x-ms-file-name']}\""
+      }
+    }
+  ]
+}
