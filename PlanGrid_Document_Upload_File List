@@ -1,0 +1,43 @@
+{
+    "Design": [
+        ".dgn",
+        ".dwf",
+        ".dwfx",
+        ".dwg",
+        ".dxf",
+        ".rvt"
+    ],
+    "Google Earth": [
+        ".kml",
+        ".kmz"
+    ],
+    "Image":[
+        ".bmp",
+        ".gif",
+        ".jpeg",
+        ".jpg",
+        ".png"
+    ],
+    "Spreadsheet": [
+        ".csv",
+        ".xls",
+        ".xlsx"
+    ],
+    "Text Document": [
+        ".doc",
+        ".docx",
+        ".odf",
+        ".pdf",
+        ".rtf",
+        ".txt"
+    ],
+    "Video": [
+        ".avi",
+        ".f4v",
+        ".mov",
+        ".mpg",
+        ".mp4",
+        ".webm",
+        ".wmv"
+    ]
+}
