@@ -1,0 +1,40 @@
+[{
+"extension": ".mov",
+"mime": "video/quicktime"
+},
+{
+"extension": ".movie",
+"mime": "video/x-sgi-movie"
+},
+{
+"extension": ".mp2",
+"mime": "audio/mpeg"
+},
+{
+"extension": ".mp2a",
+"mime": "audio/mpeg"
+},
+{
+"extension": ".mp3",
+"mime": "audio/mpeg"
+},
+{
+"extension": ".mp4",
+"mime": "video/mp4"
+},
+{
+"extension": ".mp4a",
+"mime": "audio/mp4"
+},
+{
+"extension": ".mp4s",
+"mime": "application/mp4"
+},
+{
+"extension": ".mp4v",
+"mime": "video/mp4"
+},
+{
+"extension": ".mpa",
+"mime": "video/mpeg"
+}]
