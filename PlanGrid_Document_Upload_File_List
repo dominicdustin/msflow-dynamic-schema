@@ -1,5 +1,5 @@
 {
-    "Type of Document": {
+    "Type of Document": [
         "Design": [
             ".dgn",
             ".dwf",
@@ -41,5 +41,5 @@
             ".webm",
             ".wmv"
         ]
-    }
+    ]
 }
