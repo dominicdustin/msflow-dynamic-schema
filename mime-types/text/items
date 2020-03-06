@@ -1,0 +1,33 @@
+[
+
+{
+"extension": ".doc",
+"mime": "application/word"
+},
+{
+"extension": ".docx",
+"mime": "application/word"
+},
+
+{
+"extension": ".odf",
+"mime": "application/word"
+},
+
+{
+"extension": ".pdf",
+"mime": "application/pdf"
+},
+
+{
+"extension": ".rtf",
+"mime": "application/word"
+},
+
+{
+"extension": ".txt",
+"mime": "application/txt"
+}
+
+
+]
