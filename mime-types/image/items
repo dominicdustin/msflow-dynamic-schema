@@ -1,0 +1,81 @@
+[{
+"extension": ".jpe",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jpeg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jpg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".webp",
+"mime": "image/webp"
+},
+{
+"extension": ".png",
+"mime": "image/png"
+},
+{
+"extension": ".tif",
+"mime": "image/tiff"
+},
+{
+"extension": ".tiff",
+"mime": "image/tiff"
+},
+{
+"extension": ".pdf",
+"mime": "application/pdf"
+},
+{
+"extension": ".apng",
+"mime": "image/apng"
+},
+{
+"extension": ".bmp",
+"mime": "image/bmp"
+},
+{
+"extension": ".pjp",
+"mime": "image/jpeg"
+},
+{
+"extension": ".pjpeg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jfif",
+"mime": "image/jpeg"
+},
+{
+"extension": ".gif",
+"mime": "image/gif"
+},
+{
+"extension": ".ico",
+"mime": "image/x-icon:"
+},
+{
+"extension": ".cur",
+"mime": "image/x-icon:"
+},
+{
+"extension": ".jpeg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jpg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".png",
+"mime": "image/png"
+},
+{
+"extension": ".svg",
+"mime": "image/svg+xml"
+}
+]
