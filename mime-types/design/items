@@ -1,0 +1,26 @@
+[{
+"extension": ".dgn",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwf",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwfx",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwg",
+"mime": "application/autocad"
+},
+{
+"extension": ".dxf",
+"mime": "application/autocad"
+},
+{
+"extension": ".rvt",
+"mime": "application/autocad"
+}
+
+]
