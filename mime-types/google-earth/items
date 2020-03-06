@@ -1,0 +1,10 @@
+[
+{
+"extension": ".kml",
+"mime": "application/vnd.google-earth.kml+xml"
+},
+{
+"extension": ".kmz",
+"mime": "application/vnd.google-earth.kmz"
+}
+]
