@@ -1,7 +1,23 @@
 [
 {
 "name":"Video",
-"value":"Video"
-}
+"value":"video"
+},
+{
+"name":"Image",
+"value":"image"
+},
 
+{
+"name":"Text",
+"value":"text"
+},
+{
+"name":"Design Files",
+"value":"design"
+},
+{
+"name":"Google Earth Files",
+"value":"google-earth"
+}
 ]
