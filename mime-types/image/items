@@ -61,7 +61,7 @@
 {
 "extension": ".cur",
 "mime": "image/x-icon:"
-}
+},
 {
 "extension": ".svg",
 "mime": "image/svg+xml"
