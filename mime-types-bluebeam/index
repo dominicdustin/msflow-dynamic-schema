@@ -78,11 +78,7 @@
 	"extension": ".odf",
 	"mime": "application/word",
 	"displayName": ".odf | application/word"
-}, {
-	"extension": ".pdf",
-	"mime": "application/pdf",
-	"displayName": ".pdf | application/pdf"
-}, {
+},  {
 	"extension": ".rtf",
 	"mime": "application/word",
 	"displayName": ".rtf | application/word"
