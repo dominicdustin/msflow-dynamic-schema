@@ -65,5 +65,67 @@
 {
 "extension": ".svg",
 "mime": "image/svg+xml"
+},
+
+{
+"extension": ".doc",
+"mime": "application/word"
+},
+{
+"extension": ".docx",
+"mime": "application/word"
+},
+
+{
+"extension": ".odf",
+"mime": "application/word"
+},
+
+{
+"extension": ".pdf",
+"mime": "application/pdf"
+},
+
+{
+"extension": ".rtf",
+"mime": "application/word"
+},
+
+{
+"extension": ".txt",
+"mime": "application/txt"
+},
+{
+"extension": ".dgn",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwf",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwfx",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwg",
+"mime": "application/autocad"
+},
+{
+"extension": ".dxf",
+"mime": "application/autocad"
+},
+{
+"extension": ".rvt",
+"mime": "application/autocad"
+},
+{
+"extension": ".kml",
+"mime": "application/vnd.google-earth.kml+xml"
+},
+{
+"extension": ".kmz",
+"mime": "application/vnd.google-earth.kmz"
 }
 ]
+
