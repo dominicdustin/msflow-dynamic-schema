@@ -1,131 +1,125 @@
 [{
-"extension": ".jpe",
-"mime": "image/jpeg"
-},
-{
-"extension": ".jpeg",
-"mime": "image/jpeg"
-},
-{
-"extension": ".jpg",
-"mime": "image/jpeg"
-},
-{
-"extension": ".webp",
-"mime": "image/webp"
-},
-{
-"extension": ".png",
-"mime": "image/png"
-},
-{
-"extension": ".tif",
-"mime": "image/tiff"
-},
-{
-"extension": ".tiff",
-"mime": "image/tiff"
-},
-{
-"extension": ".pdf",
-"mime": "application/pdf"
-},
-{
-"extension": ".apng",
-"mime": "image/apng"
-},
-{
-"extension": ".bmp",
-"mime": "image/bmp"
-},
-{
-"extension": ".pjp",
-"mime": "image/jpeg"
-},
-{
-"extension": ".pjpeg",
-"mime": "image/jpeg"
-},
-{
-"extension": ".jfif",
-"mime": "image/jpeg"
-},
-{
-"extension": ".gif",
-"mime": "image/gif"
-},
-{
-"extension": ".ico",
-"mime": "image/x-icon:"
-},
-{
-"extension": ".cur",
-"mime": "image/x-icon:"
-}
-{
-"extension": ".svg",
-"mime": "image/svg+xml"
-},
-
-{
-"extension": ".doc",
-"mime": "application/word"
-},
-{
-"extension": ".docx",
-"mime": "application/word"
-},
-
-{
-"extension": ".odf",
-"mime": "application/word"
-},
-
-{
-"extension": ".pdf",
-"mime": "application/pdf"
-},
-
-{
-"extension": ".rtf",
-"mime": "application/word"
-},
-
-{
-"extension": ".txt",
-"mime": "application/txt"
-},
-{
-"extension": ".dgn",
-"mime": "application/autocad"
-},
-{
-"extension": ".dwf",
-"mime": "application/autocad"
-},
-{
-"extension": ".dwfx",
-"mime": "application/autocad"
-},
-{
-"extension": ".dwg",
-"mime": "application/autocad"
-},
-{
-"extension": ".dxf",
-"mime": "application/autocad"
-},
-{
-"extension": ".rvt",
-"mime": "application/autocad"
-},
-{
-"extension": ".kml",
-"mime": "application/vnd.google-earth.kml+xml"
-},
-{
-"extension": ".kmz",
-"mime": "application/vnd.google-earth.kmz"
-}
-]
-
+	"extension": ".jpe",
+	"mime": "image/jpeg",
+	"displayName": ".jpe | image/jpeg"
+}, {
+	"extension": ".jpeg",
+	"mime": "image/jpeg",
+	"displayName": ".jpeg | image/jpeg"
+}, {
+	"extension": ".jpg",
+	"mime": "image/jpeg",
+	"displayName": ".jpg | image/jpeg"
+}, {
+	"extension": ".webp",
+	"mime": "image/webp",
+	"displayName": ".webp | image/webp"
+}, {
+	"extension": ".png",
+	"mime": "image/png",
+	"displayName": ".png | image/png"
+}, {
+	"extension": ".tif",
+	"mime": "image/tiff",
+	"displayName": ".tif | image/tiff"
+}, {
+	"extension": ".tiff",
+	"mime": "image/tiff",
+	"displayName": ".tiff | image/tiff"
+}, {
+	"extension": ".pdf",
+	"mime": "application/pdf",
+	"displayName": ".pdf | application/pdf"
+}, {
+	"extension": ".apng",
+	"mime": "image/apng",
+	"displayName": ".apng | image/apng"
+}, {
+	"extension": ".bmp",
+	"mime": "image/bmp",
+	"displayName": ".bmp | image/bmp"
+}, {
+	"extension": ".pjp",
+	"mime": "image/jpeg",
+	"displayName": ".pjp | image/jpeg"
+}, {
+	"extension": ".pjpeg",
+	"mime": "image/jpeg",
+	"displayName": ".pjpeg | image/jpeg"
+}, {
+	"extension": ".jfif",
+	"mime": "image/jpeg",
+	"displayName": ".jfif | image/jpeg"
+}, {
+	"extension": ".gif",
+	"mime": "image/gif",
+	"displayName": ".gif | image/gif"
+}, {
+	"extension": ".ico",
+	"mime": "image/x-icon:",
+	"displayName": ".ico | image/x-icon:"
+}, {
+	"extension": ".cur",
+	"mime": "image/x-icon:",
+	"displayName": ".cur | image/x-icon:"
+}, {
+	"extension": ".svg",
+	"mime": "image/svg+xml",
+	"displayName": ".svg | image/svg+xml"
+}, {
+	"extension": ".doc",
+	"mime": "application/word",
+	"displayName": ".doc | application/word"
+}, {
+	"extension": ".docx",
+	"mime": "application/word",
+	"displayName": ".docx | application/word"
+}, {
+	"extension": ".odf",
+	"mime": "application/word",
+	"displayName": ".odf | application/word"
+}, {
+	"extension": ".pdf",
+	"mime": "application/pdf",
+	"displayName": ".pdf | application/pdf"
+}, {
+	"extension": ".rtf",
+	"mime": "application/word",
+	"displayName": ".rtf | application/word"
+}, {
+	"extension": ".txt",
+	"mime": "application/txt",
+	"displayName": ".txt | application/txt"
+}, {
+	"extension": ".dgn",
+	"mime": "application/autocad",
+	"displayName": ".dgn | application/autocad"
+}, {
+	"extension": ".dwf",
+	"mime": "application/autocad",
+	"displayName": ".dwf | application/autocad"
+}, {
+	"extension": ".dwfx",
+	"mime": "application/autocad",
+	"displayName": ".dwfx | application/autocad"
+}, {
+	"extension": ".dwg",
+	"mime": "application/autocad",
+	"displayName": ".dwg | application/autocad"
+}, {
+	"extension": ".dxf",
+	"mime": "application/autocad",
+	"displayName": ".dxf | application/autocad"
+}, {
+	"extension": ".rvt",
+	"mime": "application/autocad",
+	"displayName": ".rvt | application/autocad"
+}, {
+	"extension": ".kml",
+	"mime": "application/vnd.google-earth.kml+xml",
+	"displayName": ".kml | application/vnd.google-earth.kml+xml"
+}, {
+	"extension": ".kmz",
+	"mime": "application/vnd.google-earth.kmz",
+	"displayName": ".kmz | application/vnd.google-earth.kmz"
+}]
