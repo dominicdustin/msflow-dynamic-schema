@@ -7,6 +7,10 @@
 	"mime": "image/jpeg",
 	"displayName": ".jpeg | image/jpeg"
 }, {
+	"extension": ".mov",
+	"mime": "video/quicktime",
+	"displayName": ".mov | video/quicktime"
+}, {
 	"extension": ".jpg",
 	"mime": "image/jpeg",
 	"displayName": ".jpg | image/jpeg"
@@ -67,6 +71,22 @@
 	"mime": "image/svg+xml",
 	"displayName": ".svg | image/svg+xml"
 }, {
+	"extension": ".xls",
+	"mime": "application/vnd.ms-excel",
+	"displayName": ".xls | application/vnd.ms-excel"
+}, {
+	"extension": ".xlsx",
+	"mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+	"displayName": ".xlsx | application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+}, {
+	"extension": ".ppt",
+	"mime": "application/vnd.ms-powerpoint",
+	"displayName": ".ppt | application/vnd.ms-powerpoint"
+}, {
+	"extension": ".pptx",
+	"mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+	"displayName": ".pptx | application/vnd.openxmlformats-officedocument.presentationml.presentation"
+},{
 	"extension": ".doc",
 	"mime": "application/word",
 	"displayName": ".doc | application/word"
@@ -118,4 +138,10 @@
 	"extension": ".kmz",
 	"mime": "application/vnd.google-earth.kmz",
 	"displayName": ".kmz | application/vnd.google-earth.kmz"
-}]
+}, {
+	"extension": ".exe",
+	"mime": "x-msdownload",
+	"displayName": ".exe | x-msdownload"
+},
+	
+]
