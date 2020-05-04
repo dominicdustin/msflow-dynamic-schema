@@ -56,11 +56,11 @@
 },
 {
 "extension": ".ico",
-"mime": "image/x-icon:"
+"mime": "image/x-icon"
 },
 {
 "extension": ".cur",
-"mime": "image/x-icon:"
+"mime": "image/x-icon"
 },
 {
 "extension": ".svg",
