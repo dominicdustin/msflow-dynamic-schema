@@ -1,0 +1,174 @@
+[{
+"extension": ".dgn",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwf",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwfx",
+"mime": "application/autocad"
+},
+{
+"extension": ".dwg",
+"mime": "application/autocad"
+},
+{
+"extension": ".dxf",
+"mime": "application/autocad"
+},
+{
+"extension": ".rvt",
+"mime": "application/autocad"
+}
+
+,
+{
+"extension": ".kml",
+"mime": "application/vnd.google-earth.kml+xml"
+},
+{
+"extension": ".kmz",
+"mime": "application/vnd.google-earth.kmz"
+}
+,{
+"extension": ".jpe",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jpeg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jpg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".webp",
+"mime": "image/webp"
+},
+{
+"extension": ".png",
+"mime": "image/png"
+},
+{
+"extension": ".tif",
+"mime": "image/tiff"
+},
+{
+"extension": ".tiff",
+"mime": "image/tiff"
+},
+{
+"extension": ".pdf",
+"mime": "application/pdf"
+},
+{
+"extension": ".apng",
+"mime": "image/apng"
+},
+{
+"extension": ".bmp",
+"mime": "image/bmp"
+},
+{
+"extension": ".pjp",
+"mime": "image/jpeg"
+},
+{
+"extension": ".pjpeg",
+"mime": "image/jpeg"
+},
+{
+"extension": ".jfif",
+"mime": "image/jpeg"
+},
+{
+"extension": ".gif",
+"mime": "image/gif"
+},
+{
+"extension": ".ico",
+"mime": "image/x-icon:"
+},
+{
+"extension": ".cur",
+"mime": "image/x-icon:"
+},
+{
+"extension": ".svg",
+"mime": "image/svg+xml"
+}
+,
+
+{
+"extension": ".doc",
+"mime": "application/word"
+},
+{
+"extension": ".docx",
+"mime": "application/word"
+},
+
+{
+"extension": ".odf",
+"mime": "application/word"
+},
+
+{
+"extension": ".pdf",
+"mime": "application/pdf"
+},
+
+{
+"extension": ".rtf",
+"mime": "application/word"
+},
+
+{
+"extension": ".txt",
+"mime": "application/txt"
+}
+
+
+,{
+"extension": ".mov",
+"mime": "video/quicktime"
+},
+{
+"extension": ".movie",
+"mime": "video/x-sgi-movie"
+},
+{
+"extension": ".mp2",
+"mime": "audio/mpeg"
+},
+{
+"extension": ".mp2a",
+"mime": "audio/mpeg"
+},
+{
+"extension": ".mp3",
+"mime": "audio/mpeg"
+},
+{
+"extension": ".mp4",
+"mime": "video/mp4"
+},
+{
+"extension": ".mp4a",
+"mime": "audio/mp4"
+},
+{
+"extension": ".mp4s",
+"mime": "application/mp4"
+},
+{
+"extension": ".mp4v",
+"mime": "video/mp4"
+},
+{
+"extension": ".mpa",
+"mime": "video/mpeg"
+}]
